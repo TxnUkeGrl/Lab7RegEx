@@ -24,7 +24,7 @@ namespace Lab7RegEx
             DateValidate(dateInput);
         }
 
-        private static void NameValidate(string nameInput)
+        public static void NameValidate(string nameInput)
         {
             Regex nameValid = new Regex(@"^([A-Z]{1}[a-z]{1,29})$");
 
