@@ -1,0 +1,13 @@
+D:\GCProjects\Lab7RegEx\Lab7RegEx\obj\Debug\netcoreapp3.1\Lab7RegEx.csprojAssemblyReference.cache
+D:\GCProjects\Lab7RegEx\Lab7RegEx\obj\Debug\netcoreapp3.1\Lab7RegEx.AssemblyInfoInputs.cache
+D:\GCProjects\Lab7RegEx\Lab7RegEx\obj\Debug\netcoreapp3.1\Lab7RegEx.AssemblyInfo.cs
+D:\GCProjects\Lab7RegEx\Lab7RegEx\obj\Debug\netcoreapp3.1\Lab7RegEx.csproj.CoreCompileInputs.cache
+D:\GCProjects\Lab7RegEx\Lab7RegEx\bin\Debug\netcoreapp3.1\Lab7RegEx.exe
+D:\GCProjects\Lab7RegEx\Lab7RegEx\bin\Debug\netcoreapp3.1\Lab7RegEx.deps.json
+D:\GCProjects\Lab7RegEx\Lab7RegEx\bin\Debug\netcoreapp3.1\Lab7RegEx.runtimeconfig.json
+D:\GCProjects\Lab7RegEx\Lab7RegEx\bin\Debug\netcoreapp3.1\Lab7RegEx.runtimeconfig.dev.json
+D:\GCProjects\Lab7RegEx\Lab7RegEx\bin\Debug\netcoreapp3.1\Lab7RegEx.dll
+D:\GCProjects\Lab7RegEx\Lab7RegEx\bin\Debug\netcoreapp3.1\Lab7RegEx.pdb
+D:\GCProjects\Lab7RegEx\Lab7RegEx\obj\Debug\netcoreapp3.1\Lab7RegEx.dll
+D:\GCProjects\Lab7RegEx\Lab7RegEx\obj\Debug\netcoreapp3.1\Lab7RegEx.pdb
+D:\GCProjects\Lab7RegEx\Lab7RegEx\obj\Debug\netcoreapp3.1\Lab7RegEx.genruntimeconfig.cache
